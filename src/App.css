@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+@layer base {
+  body {
+    font-size: 16px;
+  }
+  h1 {
+    @apply text-3xl sm:text-4xl font-bold text-gray-900 text-center mb-5;
+  }
+}
