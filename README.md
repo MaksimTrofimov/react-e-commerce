@@ -2,6 +2,8 @@
 
 A simple online store built on React with support for categories, product search, and a shopping cart.
 
+👉 Live Demo: [https://maksimtrofimov.github.io/tailwind-landing/src/](https://maksimtrofimov.github.io/react-e-commerce/) 
+
 ## Features
 
 - View product list
